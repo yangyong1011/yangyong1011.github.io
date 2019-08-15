@@ -5,11 +5,8 @@ SEOTitle: 0x6768编程技术
 header-img: img/post-bg-desk.jpg
 email: 272591929@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 0x6768编程技术, yaron, yangyong1011, iOS, Apple, iPhone"
+keyword: "0x6768编程技术, yaron"
 url: "http://0x6768.com/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/yangyong1011/yangyong1011.github.io.git" # you code repository
 
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
